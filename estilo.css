@@ -1,0 +1,90 @@
+h1{
+    color:#ff8906;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+body{
+    background-color: #0f0e17;
+}
+h2{
+    color:#ff8906;
+    font-size: 15px;
+}
+.img-1{
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    padding: 0px 0px;
+    border: #7a1b0b 5px solid;
+    border-radius: 20px;
+}
+.img-2{
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    padding: 0px 0px;
+    border: #065386 5px solid;
+    border-radius: 20px;
+}
+.img-3{
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    padding: 0px 0px;
+    border: #11791a 5px solid;
+    border-radius: 20px;
+}
+.img-4{
+    width: 300px;
+    height: 200px;
+    margin-top: 20px;
+    padding: 0px 0px;
+    border: #810c85 5px solid;
+    border-radius: 20px;
+}
+.button {
+    background-color: #f25f4c; 
+    border:darkslategrey;
+    color: rgb(14, 13, 13);
+    padding: 15px 22px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 12px;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    left: 735px;
+    top: 390px;
+    
+}
+.button2 {
+    background-color: #f25f4c; 
+    border:darkslategrey;
+    color: rgb(14, 13, 13);
+    padding: 15px 22px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 12px;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    left: 415px;
+    top: 390px;
+    
+}
+.button3 {
+    background-color: #f25f4c; 
+    border:darkslategrey;
+    color: rgb(14, 13, 13);
+    padding: 15px 22px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 12px;
+    display: inline-block;
+    font-size: 16px;
+    position: absolute;
+    left: 735px;
+    top: 390px;
+    
+}
